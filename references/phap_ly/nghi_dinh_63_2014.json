@@ -1,0 +1,648 @@
+{
+  "ten_van_ban": "Nghị định quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu",
+  "so_hieu": "63/2014/NĐ-CP",
+  "co_quan_ban_hanh": "Chính phủ",
+  "ngay_ban_hanh": "2014-06-26",
+  "hieu_luc": "2014-08-15",
+  "so_dieu": 130,
+  "muc_luc": [
+    {
+      "dieu": 1,
+      "ten": "Phạm vi điều chỉnh"
+    },
+    {
+      "dieu": 2,
+      "ten": "Bảo đảm cạnh tranh trong đấu thầu"
+    },
+    {
+      "dieu": 3,
+      "ten": "Nguyên tắc ưu đãi"
+    },
+    {
+      "dieu": 4,
+      "ten": "Ưu đãi đối với đấu thầu quốc tế"
+    },
+    {
+      "dieu": 5,
+      "ten": "Ưu đãi đối với hàng hóa trong nước"
+    },
+    {
+      "dieu": 6,
+      "ten": "Ưu đãi đối với đấu thầu trong nước"
+    },
+    {
+      "dieu": 7,
+      "ten": "Cung cấp và đăng tải thông tin về đấu thầu"
+    },
+    {
+      "dieu": 8,
+      "ten": "Thời hạn, quy trình cung cấp và đăng tải thông tin về đấu thầu"
+    },
+    {
+      "dieu": 9,
+      "ten": "Chi phí trong quá trình lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 10,
+      "ten": "Lưu trữ hồ sơ trong quá trình lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 11,
+      "ten": "Quy trình chi tiết (đấu thầu rộng rãi, hạn chế - một giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 12,
+      "ten": "Lập hồ sơ mời thầu"
+    },
+    {
+      "dieu": 13,
+      "ten": "Thẩm định và phê duyệt hồ sơ mời thầu"
+    },
+    {
+      "dieu": 14,
+      "ten": "Tổ chức lựa chọn nhà thầu (một giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 15,
+      "ten": "Nguyên tắc đánh giá hồ sơ dự thầu"
+    },
+    {
+      "dieu": 16,
+      "ten": "Làm rõ hồ sơ dự thầu"
+    },
+    {
+      "dieu": 17,
+      "ten": "Sửa lỗi và hiệu chỉnh sai lệch"
+    },
+    {
+      "dieu": 18,
+      "ten": "Đánh giá hồ sơ dự thầu"
+    },
+    {
+      "dieu": 19,
+      "ten": "Thương thảo hợp đồng"
+    },
+    {
+      "dieu": 20,
+      "ten": "Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 21,
+      "ten": "Quy trình chi tiết (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 22,
+      "ten": "Lựa chọn danh sách ngắn (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 23,
+      "ten": "Lập hồ sơ mời thầu (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 24,
+      "ten": "Tiêu chuẩn đánh giá tổng hợp"
+    },
+    {
+      "dieu": 25,
+      "ten": "Thẩm định và phê duyệt hồ sơ mời thầu (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 26,
+      "ten": "Tổ chức lựa chọn nhà thầu (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 27,
+      "ten": "Nguyên tắc đánh giá, làm rõ hồ sơ dự thầu, sửa lỗi và hiệu chỉnh sai lệch (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 28,
+      "ten": "Đánh giá hồ sơ đề xuất về kỹ thuật"
+    },
+    {
+      "dieu": 29,
+      "ten": "Mở hồ sơ đề xuất về tài chính"
+    },
+    {
+      "dieu": 30,
+      "ten": "Đánh giá hồ sơ đề xuất về tài chính"
+    },
+    {
+      "dieu": 31,
+      "ten": "Thương thảo hợp đồng; trình, thẩm định, phê duyệt và công khai kết quả (một giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 32,
+      "ten": "Quy trình chi tiết (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 33,
+      "ten": "Lựa chọn danh sách ngắn (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 34,
+      "ten": "Lập hồ sơ mời thầu (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 35,
+      "ten": "Thẩm định và phê duyệt hồ sơ mời thầu (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 36,
+      "ten": "Tổ chức lựa chọn nhà thầu (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 37,
+      "ten": "Nguyên tắc đánh giá, làm rõ hồ sơ dự thầu, sửa lỗi và hiệu chỉnh sai lệch (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 38,
+      "ten": "Đánh giá hồ sơ đề xuất về kỹ thuật (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 39,
+      "ten": "Mở và đánh giá hồ sơ đề xuất về tài chính (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 40,
+      "ten": "Thương thảo hợp đồng (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 41,
+      "ten": "Trình, thẩm định, phê duyệt và công khai kết quả (hai giai đoạn một túi hồ sơ)"
+    },
+    {
+      "dieu": 42,
+      "ten": "Lập, trình và phê duyệt điều khoản tham chiếu, danh sách tư vấn cá nhân"
+    },
+    {
+      "dieu": 43,
+      "ten": "Gửi thư mời và đánh giá hồ sơ lý lịch khoa học của tư vấn cá nhân; phê duyệt và ký kết hợp đồng"
+    },
+    {
+      "dieu": 44,
+      "ten": "Chuẩn bị đấu thầu giai đoạn một (hai giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 45,
+      "ten": "Tổ chức đấu thầu giai đoạn một (hai giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 46,
+      "ten": "Chuẩn bị, tổ chức đấu thầu giai đoạn hai (hai giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 47,
+      "ten": "Đánh giá hồ sơ dự thầu và thương thảo hợp đồng giai đoạn hai (hai giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 48,
+      "ten": "Trình, thẩm định, phê duyệt, công khai kết quả, hoàn thiện và ký kết hợp đồng (hai giai đoạn hai túi hồ sơ)"
+    },
+    {
+      "dieu": 49,
+      "ten": "Chuẩn bị đấu thầu giai đoạn một (dịch vụ tư vấn - hai giai đoạn)"
+    },
+    {
+      "dieu": 50,
+      "ten": "Tổ chức đấu thầu giai đoạn một (dịch vụ tư vấn - hai giai đoạn)"
+    },
+    {
+      "dieu": 51,
+      "ten": "Chuẩn bị, tổ chức đấu thầu giai đoạn hai (dịch vụ tư vấn - hai giai đoạn)"
+    },
+    {
+      "dieu": 52,
+      "ten": "Đánh giá hồ sơ dự thầu và thương thảo hợp đồng giai đoạn hai (dịch vụ tư vấn - hai giai đoạn)"
+    },
+    {
+      "dieu": 53,
+      "ten": "Trình, thẩm định, phê duyệt, công khai kết quả, hoàn thiện và ký kết hợp đồng (dịch vụ tư vấn - hai giai đoạn)"
+    },
+    {
+      "dieu": 54,
+      "ten": "Hạn mức chỉ định thầu"
+    },
+    {
+      "dieu": 55,
+      "ten": "Quy trình chỉ định thầu thông thường"
+    },
+    {
+      "dieu": 56,
+      "ten": "Quy trình chỉ định thầu rút gọn"
+    },
+    {
+      "dieu": 57,
+      "ten": "Phạm vi áp dụng chào hàng cạnh tranh"
+    },
+    {
+      "dieu": 58,
+      "ten": "Quy trình chào hàng cạnh tranh thông thường"
+    },
+    {
+      "dieu": 59,
+      "ten": "Quy trình chào hàng cạnh tranh rút gọn"
+    },
+    {
+      "dieu": 60,
+      "ten": "Quy trình mua sắm trực tiếp"
+    },
+    {
+      "dieu": 61,
+      "ten": "Điều kiện áp dụng (tự thực hiện)"
+    },
+    {
+      "dieu": 62,
+      "ten": "Quy trình tự thực hiện"
+    },
+    {
+      "dieu": 63,
+      "ten": "Hạn mức của gói thầu quy mô nhỏ"
+    },
+    {
+      "dieu": 64,
+      "ten": "Lựa chọn nhà thầu đối với gói thầu quy mô nhỏ"
+    },
+    {
+      "dieu": 65,
+      "ten": "Tư cách hợp lệ của cộng đồng dân cư, tổ chức đoàn thể, tổ, nhóm thợ tại địa phương"
+    },
+    {
+      "dieu": 66,
+      "ten": "Quy trình lựa chọn nhà thầu là cộng đồng dân cư, tổ chức đoàn thể, tổ, nhóm thợ"
+    },
+    {
+      "dieu": 67,
+      "ten": "Tạm ứng, thanh toán và giám sát, nghiệm thu công trình (cộng đồng dân cư)"
+    },
+    {
+      "dieu": 68,
+      "ten": "Nguyên tắc trong mua sắm tập trung"
+    },
+    {
+      "dieu": 69,
+      "ten": "Trách nhiệm trong mua sắm tập trung"
+    },
+    {
+      "dieu": 70,
+      "ten": "Quy trình mua sắm tập trung tổng quát"
+    },
+    {
+      "dieu": 71,
+      "ten": "Danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung"
+    },
+    {
+      "dieu": 72,
+      "ten": "Nội dung thỏa thuận khung"
+    },
+    {
+      "dieu": 73,
+      "ten": "Nội dung mua sắm thường xuyên"
+    },
+    {
+      "dieu": 74,
+      "ten": "Quy trình thực hiện mua sắm thường xuyên"
+    },
+    {
+      "dieu": 75,
+      "ten": "Nguyên tắc chung trong mua thuốc, vật tư y tế"
+    },
+    {
+      "dieu": 76,
+      "ten": "Thẩm quyền trong mua thuốc"
+    },
+    {
+      "dieu": 77,
+      "ten": "Trách nhiệm của các cơ quan trong mua thuốc"
+    },
+    {
+      "dieu": 78,
+      "ten": "Quy trình đấu phán giá thuốc"
+    },
+    {
+      "dieu": 79,
+      "ten": "Chỉ định thầu rút gọn (mua thuốc)"
+    },
+    {
+      "dieu": 80,
+      "ten": "Tiêu chuẩn đánh giá thuốc"
+    },
+    {
+      "dieu": 81,
+      "ten": "Lựa chọn nhà thầu cung cấp thuốc và mua thuốc tập trung"
+    },
+    {
+      "dieu": 82,
+      "ten": "Quy trình lựa chọn nhà thầu thực hiện gói thầu cung cấp sản phẩm, dịch vụ công"
+    },
+    {
+      "dieu": 83,
+      "ten": "Chỉ định thầu gói thầu cung cấp sản phẩm, dịch vụ công"
+    },
+    {
+      "dieu": 84,
+      "ten": "Phạm vi và lộ trình áp dụng (lựa chọn nhà thầu qua mạng)"
+    },
+    {
+      "dieu": 85,
+      "ten": "Nguyên tắc áp dụng lựa chọn nhà thầu qua mạng"
+    },
+    {
+      "dieu": 86,
+      "ten": "Chi phí trong lựa chọn nhà thầu qua mạng"
+    },
+    {
+      "dieu": 87,
+      "ten": "Đăng ký tham gia hệ thống mạng đấu thầu quốc gia"
+    },
+    {
+      "dieu": 88,
+      "ten": "Quy trình lựa chọn nhà thầu qua mạng"
+    },
+    {
+      "dieu": 89,
+      "ten": "Nguyên tắc chung của hợp đồng"
+    },
+    {
+      "dieu": 90,
+      "ten": "Giá hợp đồng"
+    },
+    {
+      "dieu": 91,
+      "ten": "Đồng tiền và hình thức thanh toán hợp đồng"
+    },
+    {
+      "dieu": 92,
+      "ten": "Tạm ứng hợp đồng"
+    },
+    {
+      "dieu": 93,
+      "ten": "Điều chỉnh giá và khối lượng của hợp đồng"
+    },
+    {
+      "dieu": 94,
+      "ten": "Thanh toán hợp đồng"
+    },
+    {
+      "dieu": 95,
+      "ten": "Thanh toán đối với loại hợp đồng trọn gói"
+    },
+    {
+      "dieu": 96,
+      "ten": "Thanh toán đối với loại hợp đồng theo đơn giá cố định"
+    },
+    {
+      "dieu": 97,
+      "ten": "Thanh toán đối với loại hợp đồng theo đơn giá điều chỉnh"
+    },
+    {
+      "dieu": 98,
+      "ten": "Thanh toán đối với loại hợp đồng theo thời gian"
+    },
+    {
+      "dieu": 99,
+      "ten": "Thanh lý hợp đồng"
+    },
+    {
+      "dieu": 100,
+      "ten": "Trách nhiệm của Bộ trưởng; Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương; Chủ tịch Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "dieu": 101,
+      "ten": "Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp huyện, cấp xã và Thủ trưởng các cơ quan khác ở địa phương"
+    },
+    {
+      "dieu": 102,
+      "ten": "Trách nhiệm của Hội đồng quản trị, người đứng đầu doanh nghiệp"
+    },
+    {
+      "dieu": 103,
+      "ten": "Trách nhiệm của Hội đồng quản trị của doanh nghiệp liên doanh, công ty cổ phần và đại diện hợp pháp của các bên tham gia hợp đồng"
+    },
+    {
+      "dieu": 104,
+      "ten": "Trách nhiệm của đơn vị thẩm định"
+    },
+    {
+      "dieu": 105,
+      "ten": "Thẩm định hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu"
+    },
+    {
+      "dieu": 106,
+      "ten": "Thẩm định kết quả đánh giá hồ sơ quan tâm, kết quả đánh giá hồ sơ dự sơ tuyển, danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật, kết quả lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 107,
+      "ten": "Đăng ký, thẩm định, công nhận và xóa tên cơ sở đào tạo về đấu thầu"
+    },
+    {
+      "dieu": 108,
+      "ten": "Tổ chức đào tạo, bồi dưỡng về đấu thầu"
+    },
+    {
+      "dieu": 109,
+      "ten": "Điều kiện đối với giảng viên về đấu thầu"
+    },
+    {
+      "dieu": 110,
+      "ten": "Đăng ký, thẩm định, công nhận và xóa tên giảng viên về đấu thầu"
+    },
+    {
+      "dieu": 111,
+      "ten": "Điều kiện cấp chứng chỉ đào tạo về đấu thầu và chứng chỉ hành nghề hoạt động đấu thầu"
+    },
+    {
+      "dieu": 112,
+      "ten": "Trách nhiệm của Bộ Kế hoạch và Đầu tư trong việc quản lý hoạt động đào tạo về đấu thầu"
+    },
+    {
+      "dieu": 113,
+      "ten": "Điều kiện của tổ chức đấu thầu chuyên nghiệp"
+    },
+    {
+      "dieu": 114,
+      "ten": "Xem xét, công nhận và đăng tải thông tin về tổ chức đấu thầu chuyên nghiệp"
+    },
+    {
+      "dieu": 115,
+      "ten": "Hoạt động của tổ chức đấu thầu chuyên nghiệp"
+    },
+    {
+      "dieu": 116,
+      "ten": "Tổ chuyên gia"
+    },
+    {
+      "dieu": 117,
+      "ten": "Xử lý tình huống trong đấu thầu"
+    },
+    {
+      "dieu": 118,
+      "ten": "Điều kiện để xem xét, giải quyết kiến nghị"
+    },
+    {
+      "dieu": 119,
+      "ten": "Hội đồng tư vấn"
+    },
+    {
+      "dieu": 120,
+      "ten": "Giải quyết kiến nghị đối với lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 121,
+      "ten": "Các hình thức xử lý vi phạm trong đấu thầu"
+    },
+    {
+      "dieu": 122,
+      "ten": "Hình thức cấm tham gia quá trình lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 123,
+      "ten": "Hủy, đình chỉ, không công nhận kết quả lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 124,
+      "ten": "Bồi thường thiệt hại do vi phạm pháp luật về đấu thầu"
+    },
+    {
+      "dieu": 125,
+      "ten": "Kiểm tra hoạt động đấu thầu"
+    },
+    {
+      "dieu": 126,
+      "ten": "Giám sát, theo dõi hoạt động đấu thầu"
+    },
+    {
+      "dieu": 127,
+      "ten": "Mẫu hồ sơ đấu thầu"
+    },
+    {
+      "dieu": 128,
+      "ten": "Quản lý nhà thầu"
+    },
+    {
+      "dieu": 129,
+      "ten": "Hướng dẫn thi hành"
+    },
+    {
+      "dieu": 130,
+      "ten": "Hiệu lực thi hành"
+    }
+  ],
+  "dieu_quan_trong": [
+    {
+      "so": 9,
+      "tieu_de": "Chi phí trong quá trình lựa chọn nhà thầu",
+      "noi_dung": "Giá bán hồ sơ mời thầu tối đa 2.000.000 đồng/bộ, hồ sơ yêu cầu tối đa 1.000.000 đồng/bộ (đấu thầu trong nước). Chi phí lập hồ sơ mời thầu/yêu cầu: 0,1% giá gói (tối thiểu 1.000.000, tối đa 50.000.000 đồng); thẩm định: 0,05%; đánh giá hồ sơ dự thầu/đề xuất: 0,1%; thẩm định kết quả lựa chọn: 0,05%. Gói tổ chức lại: chi phí lập, thẩm định tính tối đa 50% mức quy định. Chi phí Hội đồng tư vấn giải quyết kiến nghị: 0,02% giá dự thầu của nhà thầu có kiến nghị (tối thiểu 1.000.000, tối đa 50.000.000 đồng)."
+    },
+    {
+      "so": 10,
+      "tieu_de": "Lưu trữ hồ sơ trong quá trình lựa chọn nhà thầu",
+      "noi_dung": "Toàn bộ hồ sơ liên quan lưu giữ tối thiểu 03 năm sau khi quyết toán hợp đồng. Hồ sơ đề xuất tài chính của nhà thầu không qua bước kỹ thuật: trả lại nguyên trạng (gói tư vấn: trong 10 ngày kể từ ngày ký hợp đồng; gói một giai đoạn hai túi: cùng thời điểm hoàn trả bảo đảm dự thầu). Hủy thầu: lưu hồ sơ 12 tháng kể từ ngày ban hành quyết định hủy."
+    },
+    {
+      "so": 12,
+      "tieu_de": "Lập hồ sơ mời thầu",
+      "noi_dung": "Căn cứ: quyết định phê duyệt dự án/giấy chứng nhận đầu tư hoặc quyết định phê duyệt dự toán mua sắm; kế hoạch lựa chọn nhà thầu được duyệt; thiết kế kèm dự toán được duyệt (xây lắp)/đặc tính thông số kỹ thuật (hàng hóa); quy định pháp luật; chính sách thuế, phí, ưu đãi. Hồ sơ mời thầu phải quy định tiêu chuẩn đánh giá (năng lực kinh nghiệm; kỹ thuật; xác định giá thấp nhất hoặc tiêu chuẩn giá đánh giá); KHÔNG được nêu điều kiện hạn chế sự tham gia hoặc tạo lợi thế cho một/số nhà thầu. Không nêu yêu cầu nhãn hiệu, xuất xứ cụ thể (riêng minh họa được ghi 'hoặc tương đương'). Gói xây lắp có giá không quá 05 tỷ đồng chỉ cho phép nhà thầu doanh nghiệp cấp nhỏ và siêu nhỏ tham gia (Điều 6)."
+    },
+    {
+      "so": 13,
+      "tieu_de": "Thẩm định và phê duyệt hồ sơ mời thầu",
+      "noi_dung": "Hồ sơ mời thầu phải được thẩm định theo Điều 105 của Nghị định trước khi phê duyệt. Phê duyệt bằng văn bản, căn cứ vào tờ trình phê duyệt và báo cáo thẩm định hồ sơ mời thầu."
+    },
+    {
+      "so": 14,
+      "tieu_de": "Tổ chức lựa chọn nhà thầu (một giai đoạn một túi hồ sơ)",
+      "noi_dung": "Mời thầu: đăng tải thông báo mời thầu theo quy định. Phát hành, sửa đổi, làm rõ: sửa đổi sau phát hành phải gửi quyết định kèm nội dung sửa đổi đến các nhà thầu đã mua/nhận; đề nghị làm rõ gửi trước tối thiểu 03 ngày làm việc (trong nước), 05 ngày (quốc tế) trước thời điểm đóng thầu; quyết định sửa đổi, văn bản làm rõ là một phần của hồ sơ mời thầu. Tiếp nhận: hồ sơ nộp sau thời điểm đóng thầu không mở, không hợp lệ, bị loại; tài liệu gửi sau đóng thầu để sửa đổi, bổ sung không hợp lệ (trừ tài liệu làm rõ theo yêu cầu hoặc chứng minh tư cách, năng lực). Sửa đổi/rút hồ sơ: chỉ chấp thuận nếu có văn bản trước thời điểm đóng thầu. Mở thầu: công khai, bắt đầu trong vòng 01 giờ kể từ thời điểm đóng thầu; đọc rõ tên nhà thầu, số bản gốc/chụp, giá dự thầu, giảm giá, hiệu lực, bảo đảm dự thầu...; lập biên bản mở thầu ký xác nhận, gửi các nhà thầu."
+    },
+    {
+      "so": 15,
+      "tieu_de": "Nguyên tắc đánh giá hồ sơ dự thầu",
+      "noi_dung": "Căn cứ tiêu chuẩn đánh giá và yêu cầu trong hồ sơ mời thầu, hồ sơ đã nộp, tài liệu giải thích, làm rõ. Đánh giá trên bản chụp, nhà thầu chịu trách nhiệm về sự thống nhất bản gốc - bản chụp; sai khác không làm thay đổi thứ tự: căn cứ bản gốc; sai khác làm thay đổi thứ tự: hồ sơ bị loại."
+    },
+    {
+      "so": 17,
+      "tieu_de": "Sửa lỗi và hiệu chỉnh sai lệch",
+      "noi_dung": "Sửa lỗi: sửa lại sai sót (lỗi số học và các lỗi khác) do tổ chuyên gia thực hiện. Hiệu chỉnh sai lệch: điều chỉnh sai lệch về kỹ thuật, tài chính...; sai lệch thiếu phải dưới 10% giá trị hồ sơ (căn cứ Luật) - nội dung chi tiết theo hồ sơ mời thầu và báo cáo của tổ chuyên gia."
+    },
+    {
+      "so": 18,
+      "tieu_de": "Đánh giá hồ sơ dự thầu",
+      "noi_dung": "3 bước: (1) Kiểm tra tính hợp lệ: số lượng bản gốc/bản chụp, bảo đảm dự thầu, thời gian hiệu lực, năng lực kinh nghiệm, cam kết...; (2) Đánh giá chi tiết theo tiêu chuẩn đã công bố (kỹ thuật, tài chính/thương mại); (3) Xếp hạng nhà thầu theo phương pháp trong hồ sơ mời thầu. Tổ chuyên gia đánh giá độc lập, tổng hợp kết quả, báo cáo bên mời thầu."
+    },
+    {
+      "so": 19,
+      "tieu_de": "Thương thảo hợp đồng",
+      "noi_dung": "Nhà thầu xếp hạng thứ nhất được mời đến thương thảo hợp đồng. Không thương thảo đối với gói áp dụng phương thức một giai đoạn một túi hồ sơ (trừ trường hợp theo quy định). Thương thảo dựa trên kết quả đánh giá, hồ sơ dự thầu và dự thảo hợp đồng trong hồ sơ mời thầu."
+    },
+    {
+      "so": 20,
+      "tieu_de": "Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu",
+      "noi_dung": "Bên mời thầu trình kết quả trên cơ sở báo cáo kết quả đánh giá, nêu rõ ý kiến về các nội dung đánh giá của tổ chuyên gia. Kết quả phải được thẩm định theo Điều 106 trước khi phê duyệt; phê duyệt bằng văn bản căn cứ tờ trình và báo cáo thẩm định. Văn bản phê duyệt ghi: tên nhà thầu trúng thầu; giá trúng thầu; loại hợp đồng; thời gian thực hiện hợp đồng; nội dung lưu ý. Hủy thầu (khoản 1 Điều 17 Luật): văn bản phải nêu rõ lý do và trách nhiệm các bên. Sau phê duyệt: đăng tải thông tin; gửi thông báo kết quả cho các nhà thầu trong 05 ngày làm việc (điểm n khoản 1 Điều 12 Luật), kèm danh sách nhà thầu không được lựa chọn và lý do, kế hoạch hoàn thiện ký hợp đồng."
+    },
+    {
+      "so": 24,
+      "tieu_de": "Tiêu chuẩn đánh giá tổng hợp (phương pháp kết hợp kỹ thuật và giá)",
+      "noi_dung": "Điểm giá = (G thấp nhất / G đang xét) × 100 (hoặc 1.000) - thống nhất thang với điểm kỹ thuật. Tỷ trọng: gói xây lắp K (kỹ thuật) 10%-15%, G (giá) 85%-90%; gói hàng hóa K 10%-30%, G 70%-90%; gói mua thuốc K 20%-30%, G 70%-80%. Điểm tổng hợp = K × điểm kỹ thuật + G × điểm giá; K + G = 100%; tỷ trọng phải xác định cụ thể trong hồ sơ mời thầu."
+    },
+    {
+      "so": 54,
+      "tieu_de": "Hạn mức chỉ định thầu",
+      "noi_dung": "Không quá 500 triệu đồng: gói dịch vụ tư vấn, dịch vụ phi tư vấn, dịch vụ công. Không quá 01 tỷ đồng: gói mua sắm hàng hóa, xây lắp, hỗn hợp, mua thuốc, vật tư y tế, sản phẩm công. Không quá 100 triệu đồng: gói thuộc dự toán mua sắm thường xuyên."
+    },
+    {
+      "so": 63,
+      "tieu_de": "Hạn mức gói thầu quy mô nhỏ",
+      "noi_dung": "Gói quy mô nhỏ: gói dịch vụ phi tư vấn, mua sắm hàng hóa có giá trị không quá 10 tỷ đồng; gói xây lắp, hỗn hợp không quá 20 tỷ đồng."
+    },
+    {
+      "so": 89,
+      "tieu_de": "Nguyên tắc chung của hợp đồng",
+      "noi_dung": "Hợp đồng là hợp đồng dân sự, bằng văn bản; nội dung lập theo mẫu trong hồ sơ mời thầu/yêu cầu, phù hợp kết quả thương thảo và kết quả lựa chọn. Trước khi ký, các bên có thể thỏa thuận trọng tài giải quyết tranh chấp; nội dung trọng tài phải quy định cụ thể trong hợp đồng."
+    },
+    {
+      "so": 105,
+      "tieu_de": "Thẩm định hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu",
+      "noi_dung": "Hồ sơ trình: tờ trình của bên mời thầu; dự thảo hồ sơ; bản chụp quyết định phê duyệt dự án/dự toán/kế hoạch lựa chọn; tài liệu liên quan. Nội dung thẩm định: kiểm tra căn cứ lập; kiểm tra sự phù hợp nội dung so với quy mô, mục tiêu, phạm vi, thời gian thực hiện; so với hồ sơ thiết kế, dự toán; so với biên bản trao đổi giai đoạn một (hai giai đoạn); so với quy định pháp luật; xem xét ý kiến khác nhau. Báo cáo thẩm định: khái quát nội dung, cơ sở pháp lý; nhận xét, ý kiến thống nhất/không thống nhất; đề xuất, kiến nghị về phê duyệt và biện pháp xử lý vi phạm, giải quyết khi chưa đủ cơ sở phê duyệt. Có thể họp các bên trước khi ký báo cáo."
+    },
+    {
+      "so": 106,
+      "tieu_de": "Thẩm định kết quả đánh giá và kết quả lựa chọn nhà thầu",
+      "noi_dung": "Nguyên tắc: thẩm định trước khi phê duyệt; một giai đoạn một túi: chỉ thẩm định kết quả lựa chọn; một giai đoạn hai túi: thẩm định danh sách nhà thầu đáp ứng yêu cầu kỹ thuật trước khi phê duyệt; hai giai đoạn: giai đoạn một chỉ thẩm định danh sách đáp ứng kỹ thuật, giai đoạn hai như một giai đoạn một túi; không thẩm định danh sách xếp hạng (phê duyệt trên cơ sở đề nghị của bên mời thầu). Hồ sơ trình: tờ trình (nêu rõ ý kiến về đề xuất, kiến nghị của tổ chuyên gia); báo cáo kết quả đánh giá; biên bản thương thảo; hồ sơ mời thầu/yêu cầu, biên bản đóng thầu, mở thầu, hồ sơ dự thầu/đề xuất... Nội dung: kiểm tra căn cứ, tuân thủ thời gian, việc đánh giá, ý kiến khác nhau. Báo cáo thẩm định: tóm tắt quá trình, nhận xét về pháp lý, cạnh tranh công bằng minh bạch, thống nhất/không thống nhất, đề xuất xử lý."
+    },
+    {
+      "so": 116,
+      "tieu_de": "Tổ chuyên gia",
+      "noi_dung": "Cá nhân tham gia tổ chuyên gia phải có chứng chỉ hành nghề hoạt động đấu thầu (trừ trường hợp đặc biệt khoản 3, 4). Thành phần theo tính chất gói: kỹ thuật, tài chính, thương mại, hành chính, pháp lý. Cá nhân không thuộc trường hợp khoản 2 Điều 16 Luật phải có: chứng chỉ đào tạo về đấu thầu; trình độ chuyên môn liên quan; am hiểu nội dung gói; tối thiểu 03 năm công tác trong lĩnh vực liên quan đến nội dung kinh tế, kỹ thuật của gói. Chuyên gia chuyên ngành đặc biệt: không bắt buộc chứng chỉ đào tạo."
+    },
+    {
+      "so": 117,
+      "tieu_de": "Xử lý tình huống trong đấu thầu",
+      "noi_dung": "Điểm chính: (1) Điều chỉnh giá/nội dung gói: điều chỉnh kế hoạch trước thời điểm mở thầu. (2) Dự toán duyệt cao/thấp hơn giá gói trong kế hoạch: thay thế giá gói theo nguyên tắc, chỉ điều chỉnh kế hoạch khi vượt tổng mức đầu tư hoặc thay đổi hình thức. (3) Sau lựa chọn danh sách ngắn còn dưới 03 nhà thầu: lựa chọn bổ sung hoặc phát hành ngay cho danh sách ngắn. (4) Dưới 03 hồ sơ tại thời điểm đóng thầu (rộng rãi, hạn chế, chào hàng): xử lý trong 04 giờ - gia hạn thời điểm đóng thầu hoặc mở thầu ngay. (6) Đơn giá thấp khác thường: yêu cầu giải thích bằng văn bản; không thuyết phục: không chấp nhận, coi là sai lệch và hiệu chỉnh như chào thiếu. (7) Nhà thầu thứ nhất vượt giá gói nhưng có nhà thầu khác dưới giá gói: mời nhà thầu thứ nhất đàm phán giá (không vượt giá gói duyệt), không thành công mời nhà thầu tiếp theo. (8) Tất cả đều vượt giá gói duyệt: cho chào lại giá (chuẩn bị tối đa 10 ngày) hoặc mời nhà thầu thứ nhất đàm phán giá (chỉ đấu thầu rộng rãi)."
+    },
+    {
+      "so": 118,
+      "tieu_de": "Điều kiện để xem xét, giải quyết kiến nghị",
+      "noi_dung": "1. Đơn kiến nghị của nhà thầu tham dự thầu. 2. Có chữ ký của người ký đơn dự thầu hoặc đại diện hợp pháp, đóng dấu (nếu có). 3. Người có trách nhiệm giải quyết nhận được đơn theo Điều 92 Luật. 4. Nội dung chưa được khởi kiện ra Tòa án. 5. Chi phí giải quyết kiến nghị (0,02% giá dự thầu, Điều 9) do nhà thầu có kiến nghị nộp cho bộ phận thường trực của Hội đồng tư vấn (kiến nghị về kết quả do người có thẩm quyền giải quyết)."
+    },
+    {
+      "so": 119,
+      "tieu_de": "Hội đồng tư vấn (giải quyết kiến nghị)",
+      "noi_dung": "Chủ tịch: cấp trung ương - đại diện có thẩm quyền của Bộ Kế hoạch và Đầu tư; cấp bộ - đại diện đơn vị quản lý đấu thầu thuộc bộ; cấp tỉnh - đại diện có thẩm quyền của Sở Kế hoạch và Đầu tư. Thành viên: đại diện người có thẩm quyền, hiệp hội nghề nghiệp; không được là thân nhân của người ký kiến nghị, người đánh giá, thẩm định, phê duyệt kết quả. Thành lập trong 05 ngày làm việc kể từ ngày nhận đơn; làm việc tập thể, biểu quyết đa số, từng thành viên bảo lưu ý kiến. Bộ phận thường trực giúp việc: không gồm cá nhân trực tiếp thẩm định gói có kiến nghị."
+    },
+    {
+      "so": 120,
+      "tieu_de": "Giải quyết kiến nghị đối với lựa chọn nhà thầu",
+      "noi_dung": "Thời gian giải quyết (khoản 1, 2 Điều 92 Luật) tính từ ngày bộ phận hành chính của người có trách nhiệm nhận được đơn. Không xem xét nếu không đáp ứng điều kiện Điều 118 (thông báo bằng văn bản). Nhà thầu được rút đơn bằng văn bản. Văn bản trả lời phải có kết luận; kiến nghị đúng: nêu biện pháp, cách thức, thời gian khắc phục, hoàn trả số tiền nhà thầu đã nộp cho Hội đồng; kiến nghị không đúng: giải thích rõ lý do."
+    },
+    {
+      "so": 123,
+      "tieu_de": "Hủy, đình chỉ, không công nhận kết quả lựa chọn nhà thầu",
+      "noi_dung": "Hủy thầu: biện pháp của người có thẩm quyền, chủ đầu tư, bên mời thầu xử lý hành vi vi phạm bằng quyết định (khoản 4 Điều 73, khoản 10 Điều 74, điểm e khoản 2 Điều 75 Luật). Đình chỉ cuộc thầu/không công nhận kết quả: khi có bằng chứng vi phạm dẫn đến không bảo đảm cạnh tranh, công bằng, minh bạch, hiệu quả hoặc làm sai lệch kết quả; đình chỉ áp dụng đến trước khi phê duyệt kết quả; không công nhận từ khi phê duyệt đến trước khi ký hợp đồng (cần thiết: sau ký). Văn bản phải nêu rõ lý do, nội dung, biện pháp, thời gian khắc phục. Tuyên bố vô hiệu quyết định do người có thẩm quyền quyết định."
+    },
+    {
+      "so": 127,
+      "tieu_de": "Mẫu hồ sơ đấu thầu",
+      "noi_dung": "Gồm: mẫu kế hoạch lựa chọn nhà thầu; mẫu hồ sơ mời quan tâm, mời sơ tuyển, mời thầu, yêu cầu; mẫu báo cáo kết quả đánh giá hồ sơ dự thầu, hồ sơ đề xuất; mẫu báo cáo thẩm định kết quả lựa chọn nhà thầu và các mẫu khác. Bộ Kế hoạch và Đầu tư ban hành mẫu."
+    }
+  ],
+  "ghi_chu": "Nguồn: toàn văn Nghị định 63/2014/NĐ-CP (ban hành 26/06/2014, hiệu lực 15/08/2014), lấy từ vcci.com.vn ngày 27/09/2026. 'muc_luc' là danh mục 130 điều; 'dieu_quan_trong' là tóm tắt các điều chính để tra cứu nhanh - trước khi dùng trong văn bản chính thức phải đối chiếu toàn văn. TÌNH TRẠNG PHÁP LÝ: Nghị định này hướng dẫn Luật Đấu thầu 2013 nên hết hiệu lực cùng Luật (từ 01/01/2025). Hệ thống thay thế: Luật 22/2023/QH15, NĐ 24/2024/NĐ-CP (sửa đổi bởi NĐ 17/2025/NĐ-CP) và NĐ 214/2025/NĐ-CP ngày 04/08/2025 về lựa chọn nhà thầu."
+}

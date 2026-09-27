@@ -1,0 +1,532 @@
+{
+  "ten_van_ban": "Luật Đấu thầu",
+  "so_hieu": "43/2013/QH13",
+  "co_quan_ban_hanh": "Quốc hội",
+  "ngay_ban_hanh": "2013-11-26",
+  "hieu_luc": "2014-07-01",
+  "so_dieu": 96,
+  "muc_luc": [
+    {
+      "dieu": 1,
+      "ten": "Phạm vi điều chỉnh"
+    },
+    {
+      "dieu": 2,
+      "ten": "Đối tượng áp dụng"
+    },
+    {
+      "dieu": 3,
+      "ten": "Áp dụng Luật đấu thầu, điều ước quốc tế, thỏa thuận quốc tế"
+    },
+    {
+      "dieu": 4,
+      "ten": "Giải thích từ ngữ"
+    },
+    {
+      "dieu": 5,
+      "ten": "Tư cách hợp lệ của nhà thầu, nhà đầu tư"
+    },
+    {
+      "dieu": 6,
+      "ten": "Bảo đảm cạnh tranh trong đấu thầu"
+    },
+    {
+      "dieu": 7,
+      "ten": "Điều kiện phát hành hồ sơ mời thầu, hồ sơ yêu cầu"
+    },
+    {
+      "dieu": 8,
+      "ten": "Thông tin về đấu thầu"
+    },
+    {
+      "dieu": 9,
+      "ten": "Ngôn ngữ sử dụng trong đấu thầu"
+    },
+    {
+      "dieu": 10,
+      "ten": "Đồng tiền dự thầu"
+    },
+    {
+      "dieu": 11,
+      "ten": "Bảo đảm dự thầu"
+    },
+    {
+      "dieu": 12,
+      "ten": "Thời gian trong quá trình lựa chọn nhà thầu, nhà đầu tư"
+    },
+    {
+      "dieu": 13,
+      "ten": "Chi phí trong đấu thầu"
+    },
+    {
+      "dieu": 14,
+      "ten": "Ưu đãi trong lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 15,
+      "ten": "Đấu thầu quốc tế"
+    },
+    {
+      "dieu": 16,
+      "ten": "Điều kiện đối với cá nhân tham gia hoạt động đấu thầu"
+    },
+    {
+      "dieu": 17,
+      "ten": "Các trường hợp hủy thầu"
+    },
+    {
+      "dieu": 18,
+      "ten": "Trách nhiệm khi hủy thầu"
+    },
+    {
+      "dieu": 19,
+      "ten": "Đào tạo, bồi dưỡng về đấu thầu"
+    },
+    {
+      "dieu": 20,
+      "ten": "Đấu thầu rộng rãi"
+    },
+    {
+      "dieu": 21,
+      "ten": "Đấu thầu hạn chế"
+    },
+    {
+      "dieu": 22,
+      "ten": "Chỉ định thầu"
+    },
+    {
+      "dieu": 23,
+      "ten": "Chào hàng cạnh tranh"
+    },
+    {
+      "dieu": 24,
+      "ten": "Mua sắm trực tiếp"
+    },
+    {
+      "dieu": 25,
+      "ten": "Tự thực hiện"
+    },
+    {
+      "dieu": 26,
+      "ten": "Lựa chọn nhà thầu, nhà đầu tư trong trường hợp đặc biệt"
+    },
+    {
+      "dieu": 27,
+      "ten": "Tham gia thực hiện của cộng đồng"
+    },
+    {
+      "dieu": 28,
+      "ten": "Phương thức một giai đoạn một túi hồ sơ"
+    },
+    {
+      "dieu": 29,
+      "ten": "Phương thức một giai đoạn hai túi hồ sơ"
+    },
+    {
+      "dieu": 30,
+      "ten": "Phương thức hai giai đoạn một túi hồ sơ"
+    },
+    {
+      "dieu": 31,
+      "ten": "Phương thức hai giai đoạn hai túi hồ sơ"
+    },
+    {
+      "dieu": 32,
+      "ten": "Tổ chức đấu thầu chuyên nghiệp"
+    },
+    {
+      "dieu": 33,
+      "ten": "Nguyên tắc lập kế hoạch lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 34,
+      "ten": "Lập kế hoạch lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 35,
+      "ten": "Nội dung kế hoạch lựa chọn nhà thầu đối với từng gói thầu"
+    },
+    {
+      "dieu": 36,
+      "ten": "Trình duyệt kế hoạch lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 37,
+      "ten": "Thẩm định và phê duyệt kế hoạch lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 38,
+      "ten": "Quy trình lựa chọn nhà thầu"
+    },
+    {
+      "dieu": 39,
+      "ten": "Phương pháp đánh giá hồ sơ dự thầu đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp"
+    },
+    {
+      "dieu": 40,
+      "ten": "Phương pháp đánh giá hồ sơ dự thầu đối với gói thầu cung cấp dịch vụ tư vấn"
+    },
+    {
+      "dieu": 41,
+      "ten": "Phương pháp đánh giá hồ sơ đề xuất"
+    },
+    {
+      "dieu": 42,
+      "ten": "Xét duyệt trúng thầu đối với đấu thầu cung cấp dịch vụ tư vấn"
+    },
+    {
+      "dieu": 43,
+      "ten": "Xét duyệt trúng thầu đối với đấu thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp"
+    },
+    {
+      "dieu": 44,
+      "ten": "Quy định chung về mua sắm tập trung"
+    },
+    {
+      "dieu": 45,
+      "ten": "Thỏa thuận khung"
+    },
+    {
+      "dieu": 46,
+      "ten": "Điều kiện áp dụng (mua sắm thường xuyên)"
+    },
+    {
+      "dieu": 47,
+      "ten": "Tổ chức lựa chọn nhà thầu (mua sắm thường xuyên)"
+    },
+    {
+      "dieu": 48,
+      "ten": "Lựa chọn nhà thầu cung cấp thuốc, vật tư y tế"
+    },
+    {
+      "dieu": 49,
+      "ten": "Mua thuốc tập trung"
+    },
+    {
+      "dieu": 50,
+      "ten": "Ưu đãi trong mua thuốc"
+    },
+    {
+      "dieu": 51,
+      "ten": "Trách nhiệm của cơ quan quản lý nhà nước trong đấu thầu thuốc, vật tư y tế"
+    },
+    {
+      "dieu": 52,
+      "ten": "Thanh toán chi phí mua thuốc, vật tư y tế"
+    },
+    {
+      "dieu": 53,
+      "ten": "Hình thức lựa chọn nhà thầu (sản phẩm, dịch vụ công)"
+    },
+    {
+      "dieu": 54,
+      "ten": "Quy trình lựa chọn nhà thầu (sản phẩm, dịch vụ công)"
+    },
+    {
+      "dieu": 55,
+      "ten": "Kế hoạch lựa chọn nhà đầu tư"
+    },
+    {
+      "dieu": 56,
+      "ten": "Quy trình lựa chọn nhà đầu tư"
+    },
+    {
+      "dieu": 57,
+      "ten": "Trình, thẩm định, phê duyệt kế hoạch lựa chọn nhà đầu tư, hồ sơ mời sơ tuyển, kết quả sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu và kết quả lựa chọn nhà đầu tư"
+    },
+    {
+      "dieu": 58,
+      "ten": "Phương pháp đánh giá hồ sơ dự thầu (lựa chọn nhà đầu tư)"
+    },
+    {
+      "dieu": 59,
+      "ten": "Xét duyệt trúng thầu trong lựa chọn nhà đầu tư"
+    },
+    {
+      "dieu": 60,
+      "ten": "Lựa chọn nhà thầu, nhà đầu tư qua mạng"
+    },
+    {
+      "dieu": 61,
+      "ten": "Yêu cầu đối với hệ thống mạng đấu thầu quốc gia"
+    },
+    {
+      "dieu": 62,
+      "ten": "Loại hợp đồng (nhà thầu)"
+    },
+    {
+      "dieu": 63,
+      "ten": "Hồ sơ hợp đồng (nhà thầu)"
+    },
+    {
+      "dieu": 64,
+      "ten": "Điều kiện ký kết hợp đồng (nhà thầu)"
+    },
+    {
+      "dieu": 65,
+      "ten": "Hợp đồng với nhà thầu được lựa chọn"
+    },
+    {
+      "dieu": 66,
+      "ten": "Bảo đảm thực hiện hợp đồng (nhà thầu)"
+    },
+    {
+      "dieu": 67,
+      "ten": "Nguyên tắc điều chỉnh hợp đồng"
+    },
+    {
+      "dieu": 68,
+      "ten": "Loại hợp đồng (nhà đầu tư)"
+    },
+    {
+      "dieu": 69,
+      "ten": "Hồ sơ hợp đồng (nhà đầu tư)"
+    },
+    {
+      "dieu": 70,
+      "ten": "Điều kiện ký kết hợp đồng (nhà đầu tư)"
+    },
+    {
+      "dieu": 71,
+      "ten": "Hợp đồng với nhà đầu tư được lựa chọn"
+    },
+    {
+      "dieu": 72,
+      "ten": "Bảo đảm thực hiện hợp đồng (nhà đầu tư)"
+    },
+    {
+      "dieu": 73,
+      "ten": "Trách nhiệm của người có thẩm quyền"
+    },
+    {
+      "dieu": 74,
+      "ten": "Trách nhiệm của chủ đầu tư"
+    },
+    {
+      "dieu": 75,
+      "ten": "Trách nhiệm của bên mời thầu"
+    },
+    {
+      "dieu": 76,
+      "ten": "Trách nhiệm của tổ chuyên gia"
+    },
+    {
+      "dieu": 77,
+      "ten": "Trách nhiệm của nhà thầu, nhà đầu tư"
+    },
+    {
+      "dieu": 78,
+      "ten": "Trách nhiệm của tổ chức thẩm định"
+    },
+    {
+      "dieu": 79,
+      "ten": "Trách nhiệm của bên mời thầu tham gia hệ thống mạng đấu thầu quốc gia"
+    },
+    {
+      "dieu": 80,
+      "ten": "Trách nhiệm của nhà thầu, nhà đầu tư tham gia hệ thống mạng đấu thầu quốc gia"
+    },
+    {
+      "dieu": 81,
+      "ten": "Nội dung quản lý nhà nước về hoạt động đấu thầu"
+    },
+    {
+      "dieu": 82,
+      "ten": "Trách nhiệm của Chính phủ, Thủ tướng Chính phủ"
+    },
+    {
+      "dieu": 83,
+      "ten": "Trách nhiệm của Bộ Kế hoạch và Đầu tư"
+    },
+    {
+      "dieu": 84,
+      "ten": "Trách nhiệm của bộ, cơ quan ngang bộ và Ủy ban nhân dân các cấp"
+    },
+    {
+      "dieu": 85,
+      "ten": "Trách nhiệm của tổ chức vận hành hệ thống mạng đấu thầu quốc gia"
+    },
+    {
+      "dieu": 86,
+      "ten": "Xử lý tình huống"
+    },
+    {
+      "dieu": 87,
+      "ten": "Thanh tra, kiểm tra và giám sát hoạt động đấu thầu"
+    },
+    {
+      "dieu": 88,
+      "ten": "Khiếu nại, tố cáo"
+    },
+    {
+      "dieu": 89,
+      "ten": "Các hành vi bị cấm trong đấu thầu"
+    },
+    {
+      "dieu": 90,
+      "ten": "Xử lý vi phạm"
+    },
+    {
+      "dieu": 91,
+      "ten": "Giải quyết kiến nghị trong đấu thầu"
+    },
+    {
+      "dieu": 92,
+      "ten": "Quy trình giải quyết kiến nghị"
+    },
+    {
+      "dieu": 93,
+      "ten": "Nguyên tắc giải quyết"
+    },
+    {
+      "dieu": 94,
+      "ten": "Quyền yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "dieu": 95,
+      "ten": "Hiệu lực thi hành"
+    },
+    {
+      "dieu": 96,
+      "ten": "Quy định chi tiết"
+    }
+  ],
+  "dieu_quan_trong": [
+    {
+      "so": 5,
+      "tieu_de": "Tư cách hợp lệ của nhà thầu, nhà đầu tư",
+      "noi_dung": "1. Tổ chức có tư cách hợp lệ khi: có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của nước mà tổ chức hoạt động cấp; hạch toán tài chính độc lập; không đang trong quá trình giải thể; không bị kết luận đang làm vào tình trạng phá sản hoặc nợ không có khả năng chi trả; đã đăng ký trên hệ thống mạng đấu thầu quốc gia; bảo đảm cạnh tranh theo Điều 6; không đang trong thời gian bị cấm tham dự thầu; có tên trong danh sách ngắn (nếu đã lựa chọn được); nhà thầu nước ngoài tham dự thầu quốc tế tại Việt Nam phải liên danh với nhà thầu trong nước hoặc sử dụng nhà thầu phụ trong nước (trừ khi nhà thầu trong nước không đủ năng lực). 2. Cá nhân phải có năng lực hành vi dân sự đầy đủ, chứng chỉ chuyên môn phù hợp, đăng ký hoạt động hợp pháp, không đang bị truy cứu trách nhiệm hình sự, không trong thời gian bị cấm. 3. Được tham gia độc lập hoặc liên danh; liên danh phải có văn bản thỏa thuận quy định rõ trách nhiệm của thành viên đứng đầu và trách nhiệm chung, trách nhiệm riêng."
+    },
+    {
+      "so": 6,
+      "tieu_de": "Bảo đảm cạnh tranh trong đấu thầu",
+      "noi_dung": "Nhà thầu tham dự quan tâm, dự sơ tuyển, dự thầu phải độc lập về pháp lý và tài chính với chủ đầu tư, bên mời thầu, nhà thầu tư vấn lập/đánh giá hồ sơ, và với các nhà thầu khác (đấu thầu hạn chế). Nhà thầu tư vấn giám sát phải độc lập với nhà thầu thực hiện hợp đồng và nhà thầu kiểm định gói thầu đó. Nhà đầu tư tham dự thầu phải độc lập với nhà thầu tư vấn đấu thầu, tư vấn thẩm định dự án. Chính phủ quy định chi tiết (Điều 2 Nghị định 63/2014/NĐ-CP: tỷ lệ cổ phần/vốn góp, tập đoàn kinh tế nhà nước)."
+    },
+    {
+      "so": 7,
+      "tieu_de": "Điều kiện phát hành hồ sơ mời thầu, hồ sơ yêu cầu",
+      "noi_dung": "1. Hồ sơ mời thầu, hồ sơ yêu cầu của gói thầu chỉ được phát hành để lựa chọn nhà thầu khi có đủ: a) Kế hoạch lựa chọn nhà thầu được phê duyệt; b) Hồ sơ mời thầu, hồ sơ yêu cầu được phê duyệt, bao gồm yêu cầu về thủ tục đấu thầu, bảng dữ liệu đấu thầu, tiêu chuẩn đánh giá, biểu mẫu dự thầu, bảng khối lượng mời thầu; yêu cầu về tiến độ, kỹ thuật, chất lượng; điều kiện chung, điều kiện cụ thể của hợp đồng, mẫu văn bản hợp đồng và các nội dung cần thiết khác; c) Thông báo mời thầu, thông báo mời chào hàng hoặc danh sách ngắn được đăng tải theo quy định; d) Nguồn vốn cho gói thầu được thu xếp theo tiến độ; đ) Nội dung, danh mục hàng hóa, dịch vụ và dự toán được phê duyệt (mua sắm thường xuyên, tập trung); e) Bảo đảm bàn giao mặt bằng thi công theo tiến độ. 2. Đối với lựa chọn nhà đầu tư: dự án thuộc danh mục công bố hoặc do nhà đầu tư đề xuất; kế hoạch lựa chọn nhà đầu tư được phê duyệt; hồ sơ được phê duyệt; thông báo mời thầu/danh sách ngắn được đăng tải."
+    },
+    {
+      "so": 11,
+      "tieu_de": "Bảo đảm dự thầu",
+      "noi_dung": "1. Áp dụng: đấu thầu rộng rãi, hạn chế, chào hàng cạnh tranh đối với gói phi tư vấn, hàng hóa, xây lắp, hỗn hợp; đấu thầu rộng rãi và chỉ định thầu đối với lựa chọn nhà đầu tư. 2. Thực hiện trước thời điểm đóng thầu. 3. Giá trị: 1%-3% giá gói thầu (lựa chọn nhà thầu); 0,5%-1,5% tổng mức đầu tư (lựa chọn nhà đầu tư), ghi trong hồ sơ mời thầu/yêu cầu. 4. Thời gian có hiệu lực = thời gian hiệu lực hồ sơ dự thầu/đề xuất cộng thêm 30 ngày. 5. Từ chối gia hạn hiệu lực hồ sơ => bị loại; bên mời thầu hoàn trả/giải tỏa bảo đảm trong 20 ngày. 7. Hoàn trả/giải tỏa cho nhà thầu không được lựa chọn không quá 20 ngày kể từ ngày kết quả được phê duyệt; nhà thầu được lựa chọn: hoàn trả sau khi nộp bảo đảm thực hiện hợp đồng (Điều 66). 8. Không hoàn trả khi: rút hồ sơ sau thời điểm đóng thầu trong thời gian hiệu lực; vi phạm dẫn đến hủy thầu theo khoản 4 Điều 17; không thực hiện bảo đảm thực hiện hợp đồng; không tiến hành hoặc từ chối hoàn thiện hợp đồng trong 20 ngày (nhà đầu tư: 30 ngày) hoặc đã hoàn thiện nhưng từ chối ký hợp đồng."
+    },
+    {
+      "so": 12,
+      "tieu_de": "Thời gian trong quá trình lựa chọn nhà thầu, nhà đầu tư",
+      "noi_dung": "Thời hạn chính: phê duyệt kế hoạch lựa chọn nhà thầu tối đa 05 ngày làm việc; phát hành hồ sơ sau 03 ngày làm việc kể từ ngày đầu tiên đăng tải thông báo; chuẩn bị hồ sơ quan tâm/sơ tuyển tối thiểu 10 ngày (trong nước), 20 ngày (quốc tế); chuẩn bị hồ sơ đề xuất tối thiểu 05 ngày làm việc; chuẩn bị hồ sơ dự thầu tối thiểu 20 ngày (trong nước), 40 ngày (quốc tế); thời gian đánh giá: hồ sơ quan tâm/sơ tuyển tối đa 20 ngày (30 ngày quốc tế), hồ sơ đề xuất 30 ngày (40 ngày), hồ sơ dự thầu 45 ngày (trong nước) - 60 ngày (quốc tế), có thể kéo dài thêm tối đa 20 ngày; thẩm định tối đa 20 ngày cho từng nội dung; phê duyệt hồ sơ mời thầu/yêu cầu tối đa 10 ngày; phê duyệt hoặc có ý kiến về kết quả lựa chọn nhà thầu tối đa 10 ngày; hiệu lực hồ sơ dự thầu tối đa 180 ngày (210 ngày với gói quy mô lớn, phức tạp, hai giai đoạn); gửi văn bản sửa đổi hồ sơ mời thầu tối thiểu 10 ngày (trong nước) - 15 ngày (quốc tế) trước thời điểm đóng thầu; gửi thông báo kết quả cho các nhà thầu trong 05 ngày làm việc kể từ ngày kết quả được phê duyệt."
+    },
+    {
+      "so": 14,
+      "tieu_de": "Ưu đãi trong lựa chọn nhà thầu",
+      "noi_dung": "Đối tượng: hàng hóa có chi phí sản xuất trong nước từ 25% trở lên (đấu thầu trong nước/quốc tế); đấu thầu quốc tế: nhà thầu trong nước độc lập hoặc liên danh với nhà thầu trong nước đảm nhận từ 25% giá trị công việc; đấu thầu trong nước: nhà thầu có từ 25% lao động nữ, 25% thương binh/người khuyết tật, doanh nghiệp nhỏ. Cách tính: cộng thêm điểm cho nhà thầu được hưởng ưu đãi hoặc cộng thêm số tiền vào giá dự thầu/giá đánh giá của nhà thầu không được hưởng. Mức ưu đãi cụ thể do Chính phủ quy định (7,5% tại Điều 4, 5 Nghị định 63/2014/NĐ-CP)."
+    },
+    {
+      "so": 17,
+      "tieu_de": "Các trường hợp hủy thầu",
+      "noi_dung": "1. Tất cả hồ sơ dự thầu, hồ sơ đề xuất không đáp ứng yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu. 2. Thay đổi mục tiêu, phạm vi đầu tư đã ghi trong hồ sơ mời thầu, hồ sơ yêu cầu. 3. Hồ sơ mời thầu, hồ sơ yêu cầu không tuân thủ quy định pháp luật về đấu thầu hoặc pháp luật liên quan dẫn đến nhà thầu, nhà đầu tư được lựa chọn không đáp ứng yêu cầu. 4. Có bằng chứng về đưa, nhận, môi giới hối lộ, thông thầu, gian lận, lợi dụng chức vụ can thiệp trái pháp luật vào hoạt động đấu thầu dẫn đến làm sai lệch kết quả. Thẩm quyền: khoản 4 Điều 73, khoản 10 Điều 74, điểm e khoản 2 Điều 75 của Luật; chi tiết tại Điều 123 Nghị định 63/2014/NĐ-CP."
+    },
+    {
+      "so": 20,
+      "tieu_de": "Đấu thầu rộng rãi",
+      "noi_dung": "Hình thức lựa chọn trong đó không hạn chế số lượng nhà thầu tham dự. Áp dụng cho các gói thầu, dự án thuộc phạm vi điều chỉnh của Luật, trừ trường hợp quy định tại các Điều 21, 22, 23, 24, 25, 26, 27."
+    },
+    {
+      "so": 21,
+      "tieu_de": "Đấu thầu hạn chế",
+      "noi_dung": "Áp dụng khi gói thầu có yêu cầu cao về kỹ thuật hoặc kỹ thuật có tính đặc thù mà chỉ có một số nhà thầu đáp ứng yêu cầu."
+    },
+    {
+      "so": 22,
+      "tieu_de": "Chỉ định thầu",
+      "noi_dung": "Các trường hợp: khắc phục sự cố bất khả kháng/giải phóng mặt bằng/bảo đảm bí mật nhà nước/tránh nguy hại trực tiếp; mua thuốc, hóa chất, vật tư y tế chống dịch cấp bách; bảo vệ chủ quyền quốc gia; phải mua từ nhà thầu đã thực hiện trước đó do tính tương thích công nghệ, bản quyền; gói nghiên cứu thử nghiệm, mua bản quyền sở hữu trí tuệ; tư vấn lập khả thi/thiết kế chỉ định cho tác giả thiết kế kiến trúc trúng tuyển; di dời hạ tầng kỹ thuật, rà phá bom mìn; gói sản phẩm, dịch vụ công trong hạn mức. Điều kiện: có quyết định đầu tư được duyệt (trừ gói tư vấn chuẩn bị dự án); kế hoạch lựa chọn nhà thầu được duyệt; vốn được bố trí; dự toán được duyệt (trừ gói EP, EC, EPC); thời gian từ phê duyệt hồ sơ yêu cầu đến ký hợp đồng không quá 45 ngày (gói lớn, phức tạp: 90 ngày); nhà thầu trong cơ sở dữ liệu nhà thầu quốc gia. Khuyến khích dùng hình thức khác khi có thể."
+    },
+    {
+      "so": 39,
+      "tieu_de": "Phương pháp đánh giá hồ sơ dự thầu (phi tư vấn, hàng hóa, xây lắp, hỗn hợp)",
+      "noi_dung": "1. Phương pháp giá thấp nhất: gói đơn giản, quy mô nhỏ, các đề xuất cùng một mặt bằng khi đáp ứng yêu cầu hồ sơ mời thầu; xếp hạng theo giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch (trừ giảm giá); thấp nhất xếp thứ nhất. 2. Phương pháp giá đánh giá: gói quy đổi được về cùng mặt bằng cho vòng đời sử dụng; xếp hạng theo giá đánh giá; thấp nhất xếp thứ nhất. 3. Kết hợp kỹ thuật và giá: gói công nghệ thông tin, viễn thông hoặc không áp dụng được hai phương pháp trên; xếp hạng theo điểm tổng hợp; cao nhất xếp thứ nhất. 4. Năng lực, kinh nghiệm: tiêu chí đạt/không đạt; kỹ thuật: chấm điểm hoặc đạt/không đạt; phương pháp kết hợp: chấm điểm, mức điểm kỹ thuật tối thiểu không thấp hơn 70% tổng điểm kỹ thuật."
+    },
+    {
+      "so": 40,
+      "tieu_de": "Phương pháp đánh giá hồ sơ dự thầu (dịch vụ tư vấn)",
+      "noi_dung": "Tổ chức: a) Giá thấp nhất - gói tư vấn đơn giản; b) Giá cố định - gói đơn giản, chi phí xác định cụ thể, xếp hạng theo điểm kỹ thuật (giá không vượt chi phí gói); c) Kết hợp kỹ thuật và giá - tỷ trọng điểm kỹ thuật 70%-80%, điểm giá 20%-30%, tổng bằng 100%, cao nhất xếp thứ nhất; d) Dựa trên kỹ thuật - gói yêu cầu kỹ thuật cao, đặc thù, điểm kỹ thuật tối thiểu không thấp hơn 80%, đạt yêu cầu và cao nhất được mời mở hồ sơ tài chính để thương thảo. Cá nhân: đánh giá hồ sơ lý lịch khoa học, đề xuất kỹ thuật (nếu có) so với điều khoản tham chiếu."
+    },
+    {
+      "so": 41,
+      "tieu_de": "Phương pháp đánh giá hồ sơ đề xuất",
+      "noi_dung": "Trong chào hàng cạnh tranh, đánh giá theo phương pháp giá thấp nhất quy định tại khoản 1 Điều 39 của Luật."
+    },
+    {
+      "so": 42,
+      "tieu_de": "Xét duyệt trúng thầu (dịch vụ tư vấn)",
+      "noi_dung": "Nhà thầu tư vấn là tổ chức được xem xét, đề nghị trúng thầu khi: a) Có hồ sơ hợp lệ; b) Đề xuất kỹ thuật đáp ứng yêu cầu; c) Giá thấp nhất (phương pháp giá thấp nhất)/điểm kỹ thuật cao nhất (giá cố định, dựa trên kỹ thuật)/điểm tổng hợp cao nhất (kết hợp); d) Giá đề nghị trúng thầu không vượt giá gói thầu được duyệt (dự toán được duyệt thay thế nếu khác). Cá nhân: lý lịch khoa học, đề xuất kỹ thuật tốt nhất + giá không vượt gói. Nhà thầu không được lựa chọn: thông báo phải nêu rõ lý do."
+    },
+    {
+      "so": 43,
+      "tieu_de": "Xét duyệt trúng thầu (phi tư vấn, hàng hóa, xây lắp, hỗn hợp)",
+      "noi_dung": "Nhà thầu được xem xét, đề nghị trúng thầu khi: a) Có hồ sơ dự thầu, hồ sơ đề xuất hợp lệ; b) Có năng lực và kinh nghiệm đáp ứng yêu cầu; c) Đề xuất kỹ thuật đáp ứng yêu cầu; d) Sai lệch thiếu không quá 10% giá dự thầu; đ) Giá dự thầu sau sửa lỗi, hiệu chỉnh thấp nhất (giá thấp nhất)/giá đánh giá thấp nhất (giá đánh giá)/điểm tổng hợp cao nhất (kết hợp); e) Giá đề nghị trúng thầu không vượt giá gói thầu được duyệt (dự toán được duyệt thay thế nếu khác). Nhà thầu không được lựa chọn: thông báo phải nêu rõ lý do."
+    },
+    {
+      "so": 62,
+      "tieu_de": "Loại hợp đồng (nhà thầu)",
+      "noi_dung": "1. Hợp đồng trọn gói: giá cố định trong suốt thời gian thực hiện; là loại cơ bản; gói tư vấn, phi tư vấn đơn giản và gói hàng hóa, xây lắp, hỗn hợp quy mô nhỏ phải áp dụng; chủ đầu tư/bên mời thầu chịu trách nhiệm về chính xác khối lượng. 2. Hợp đồng theo đơn giá cố định: đơn giá không thay đổi, thanh toán theo khối lượng thực tế nghiệm thu. 3. Hợp đồng theo đơn giá điều chỉnh: đơn giá có thể điều chỉnh theo thỏa thuận trong hợp đồng. 4. Hợp đồng theo thời gian: cho gói tư vấn, thanh toán theo thời gian làm việc thực tế."
+    },
+    {
+      "so": 63,
+      "tieu_de": "Hồ sơ hợp đồng (nhà thầu)",
+      "noi_dung": "Bao gồm: a) Văn bản hợp đồng; b) Phụ lục hợp đồng (danh mục phạm vi công việc, biểu giá, tiến độ - nếu có); c) Quyết định phê duyệt kết quả lựa chọn nhà thầu. Có thể gồm thêm: biên bản hoàn thiện hợp đồng; văn bản thỏa thuận điều kiện hợp đồng; hồ sơ dự thầu/đề xuất và tài liệu làm rõ của nhà thầu được lựa chọn; hồ sơ mời thầu/yêu cầu và tài liệu sửa đổi, bổ sung; tài liệu liên quan. Khi thay đổi nội dung thuộc phạm vi hợp đồng: ký phụ lục bổ sung."
+    },
+    {
+      "so": 64,
+      "tieu_de": "Điều kiện ký kết hợp đồng (nhà thầu)",
+      "noi_dung": "1. Tại thời điểm ký kết, hồ sơ dự thầu/đề xuất của nhà thầu được lựa chọn còn hiệu lực. 2. Nhà thầu phải bảo đảm đáp ứng yêu cầu năng lực kỹ thuật, tài chính; khi cần thiết, chủ đầu tư/bên mời thầu xác minh năng lực trước khi ký. 3. Chủ đầu tư/bên mời thầu phải bảo đảm điều kiện vốn tạm ứng, vốn thanh toán, mặt bằng và điều kiện cần thiết khác để triển khai đúng tiến độ."
+    },
+    {
+      "so": 65,
+      "tieu_de": "Hợp đồng với nhà thầu được lựa chọn",
+      "noi_dung": "Sau khi lựa chọn, các bên phải ký hợp đồng; liên danh: tất cả thành viên ký, đóng dấu. Hợp đồng phải tuân thủ Luật và pháp luật liên quan; phải phù hợp nội dung hồ sơ mời thầu/yêu cầu, hồ sơ dự thầu/đề xuất, kết quả thương thảo, quyết định phê duyệt kết quả. Giá hợp đồng không được vượt giá trúng thầu; bổ sung khối lượng ngoài hồ sơ dẫn đến vượt giá trúng thầu: không vượt giá gói thầu hoặc dự toán được duyệt (nhiều gói: không vượt tổng mức đầu tư/dự toán mua sắm được duyệt)."
+    },
+    {
+      "so": 66,
+      "tieu_de": "Bảo đảm thực hiện hợp đồng (nhà thầu)",
+      "noi_dung": "Áp dụng cho nhà thầu được lựa chọn, trừ nhà thầu tư vấn, tự thực hiện và cộng đồng. Thực hiện trước thời điểm hợp đồng có hiệu lực. Giá trị: 2%-10% giá trúng thầu, ghi trong hồ sơ mời thầu/yêu cầu. Hiệu lực: từ ngày hợp đồng có hiệu lực đến khi hoàn thành nghĩa vụ hoặc chuyển sang nghĩa vụ bảo hành; gia hạn hợp đồng thì phải gia hạn bảo đảm tương ứng. Không hoàn trả khi: từ chối thực hiện hợp đồng đã có hiệu lực; vi phạm thỏa thuận trong hợp đồng; chậm tiến độ do lỗi mình nhưng từ chối gia hạn hiệu lực bảo đảm."
+    },
+    {
+      "so": 73,
+      "tieu_de": "Trách nhiệm của người có thẩm quyền",
+      "noi_dung": "Phê duyệt kế hoạch lựa chọn nhà thầu, nhà đầu tư; giải quyết kiến nghị; xử lý vi phạm; hủy thầu (khoản 2, 3, 4 Điều 17); đình chỉ cuộc thầu, không công nhận kết quả lựa chọn hoặc tuyên bố vô hiệu quyết định của chủ đầu tư, bên mời thầu khi phát hiện vi phạm; tổ chức kiểm tra, giám sát, theo dõi; có ý kiến về xử lý tình huống phức tạp theo đề nghị của chủ đầu tư. Đối với nhà đầu tư: quyết định bên mời thầu; phê duyệt hồ sơ mời sơ tuyển, kết quả sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả lựa chọn; quyết định xử lý tình huống; ký và quản lý hợp đồng; hủy thầu (khoản 1 Điều 17); quyết định thành lập bên mời thầu; bồi thường thiệt hại do lỗi mình; giải trình theo yêu cầu."
+    },
+    {
+      "so": 74,
+      "tieu_de": "Trách nhiệm của chủ đầu tư",
+      "noi_dung": "Phê duyệt: kế hoạch lựa chọn nhà thầu (gói thực hiện trước khi có quyết định phê duyệt dự án); hồ sơ mời quan tâm, mời sơ tuyển, danh sách ngắn; hồ sơ mời thầu, hồ sơ yêu cầu; danh sách xếp hạng nhà thầu; kết quả lựa chọn nhà thầu. Ký hoặc ủy quyền ký và quản lý thực hiện hợp đồng. Quyết định thành lập bên mời thầu (nhân sự không đáp ứng thì thuê tổ chức đấu thầu chuyên nghiệp). Quyết định xử lý tình huống. Giải quyết kiến nghị trong quá trình lựa chọn. Bảo mật tài liệu trong quá trình lựa chọn. Lưu trữ thông tin theo quy định. Báo cáo công tác đấu thầu hằng năm. Hủy thầu (khoản 1 Điều 17). Chịu trách nhiệm trước pháp luật và người có thẩm quyền về quá trình lựa chọn. Cung cấp hồ sơ, tài liệu, giải trình theo yêu cầu."
+    },
+    {
+      "so": 86,
+      "tieu_de": "Xử lý tình huống",
+      "noi_dung": "Xử lý tình huống là việc giải quyết trường hợp phát sinh trong đấu thầu chưa được quy định cụ thể, rõ ràng trong pháp luật về đấu thầu. Người quyết định chịu trách nhiệm trước pháp luật trên cơ sở: a) Cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế; b) Căn cứ vào kế hoạch lựa chọn, hồ sơ mời quan tâm/sơ tuyển/mời thầu/yêu cầu, hồ sơ quan tâm/dự sơ tuyển/dự thầu/đề xuất, kết quả lựa chọn, hợp đồng đã ký và tình hình thực tế. Thẩm quyền: gói thuộc dự án - chủ đầu tư (phức tạp: sau khi có ý kiến người có thẩm quyền); mua sắm thường xuyên, tập trung - bên mời thầu; lựa chọn nhà đầu tư - người có thẩm quyền. Chính phủ quy định chi tiết (Điều 117 Nghị định 63/2014/NĐ-CP)."
+    },
+    {
+      "so": 88,
+      "tieu_de": "Khiếu nại, tố cáo",
+      "noi_dung": "Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo về đấu thầu được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo."
+    },
+    {
+      "so": 91,
+      "tieu_de": "Giải quyết kiến nghị trong đấu thầu",
+      "noi_dung": "1. Khi thấy quyền và lợi ích hợp pháp bị ảnh hưởng, nhà thầu, nhà đầu tư có quyền: a) Kiến nghị với bên mời thầu, chủ đầu tư, người có thẩm quyền về các vấn đề trong quá trình lựa chọn và về kết quả lựa chọn, theo quy trình tại Điều 92; b) Khởi kiện ra Tòa án vào bất kỳ thời gian nào, kể cả đang giải quyết kiến nghị hoặc sau khi đã có kết quả. 2. Đã khởi kiện ra Tòa thì không gửi kiến nghị; đang giải quyết kiến nghị mà khởi kiện thì việc giải quyết kiến nghị chấm dứt ngay."
+    },
+    {
+      "so": 92,
+      "tieu_de": "Quy trình giải quyết kiến nghị",
+      "noi_dung": "1. Về các vấn đề trong quá trình lựa chọn: gửi kiến nghị từ khi xảy ra sự việc đến trước khi có thông báo kết quả; chủ đầu tư/bên mời thầu phải trả lời bằng văn bản trong 07 ngày làm việc; không trả lời hoặc không đồng ý: gửi kiến nghị đến người có thẩm quyền trong 05 ngày làm việc; người có thẩm quyền trả lời trong 05 ngày làm việc. 2. Về kết quả lựa chọn nhà thầu: gửi kiến nghị trong 10 ngày kể từ ngày có thông báo kết quả; chủ đầu tư/bên mời thầu trả lời trong 07 ngày làm việc; không trả lời hoặc không đồng ý: trong 05 ngày làm việc gửi kiến nghị đồng thời đến người có thẩm quyền và Hội đồng tư vấn giải quyết kiến nghị (cấp trung ương do Bộ trưởng Bộ Kế hoạch và Đầu tư thành lập; cấp bộ do Bộ trưởng/thủ trưởng thành lập; cấp địa phương do người đứng đầu cơ quan quản lý đấu thầu địa phương thành lập); Hội đồng tư vấn báo cáo người có thẩm quyền trong 20 ngày; người có thẩm quyền quyết định trong 05 ngày làm việc kể từ ngày nhận ý kiến bằng văn bản của Hội đồng; Hội đồng có thể đề nghị tạm dừng cuộc thầu (người có thẩm quyền thông báo trong 05 ngày làm việc, gửi các bên trong 03 ngày làm việc). 3-4. Đối với nhà đầu tư: bên mời thầu trả lời trong 15 ngày; Hội đồng tư vấn báo cáo trong 30 ngày."
+    },
+    {
+      "so": 94,
+      "tieu_de": "Quyền yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời",
+      "noi_dung": "Khi khởi kiện, các bên có quyền yêu cầu Tòa án tạm dừng ngay việc đóng thầu; phê duyệt danh sách ngắn; phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư; ký kết hợp đồng; thực hiện hợp đồng và các biện pháp khẩn cấp tạm thời khác theo quy định của pháp luật."
+    }
+  ],
+  "ghi_chu": "Nguồn: toàn văn Luật số 43/2013/QH13 (ban hành 26/11/2013, hiệu lực 01/07/2014), lấy từ vcci.com.vn ngày 27/09/2026. 'muc_luc' là danh mục 96 điều của Luật; 'dieu_quan_trong' là tóm tắt các điều chính để tra cứu nhanh - trước khi dùng trong văn bản chính thức phải đối chiếu toàn văn văn bản chính thức. TÌNH TRẠNG PHÁP LÝ: Luật này hết hiệu lực từ 01/01/2025, thay thế bởi Luật Đấu thầu số 22/2023/QH15 (hiệu lực 01/01/2025) và các nghị định hướng dẫn (NĐ 24/2024/NĐ-CP, sửa đổi bởi NĐ 17/2025/NĐ-CP, được thay thế một phần bởi NĐ 214/2025/NĐ-CP ngày 04/08/2025). Khi thực hiện dự án, xác định văn bản áp dụng theo mốc thời gian của gói thầu/dự án."
+}

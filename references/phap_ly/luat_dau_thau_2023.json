@@ -1,0 +1,21 @@
+{
+  "ten_van_ban": "Luật Đấu thầu",
+  "so_hieu": "22/2023/QH15",
+  "co_quan_ban_hanh": "Quốc hội",
+  "ngay_ban_hanh": "2023-06-23",
+  "hieu_luc": "2024-01-01",
+  "tinh_trang": "Khung pháp lý chính hiện hành; cần đọc cùng các luật sửa đổi, bổ sung có liên quan.",
+  "dieu_quan_trong": [
+    {"so": 3, "tieu_de": "Áp dụng Luật Đấu thầu, pháp luật có liên quan và điều ước quốc tế, thỏa thuận về vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi", "noi_dung": "Xác định quan hệ áp dụng giữa Luật Đấu thầu, pháp luật chuyên ngành, điều ước quốc tế và thỏa thuận về vốn ODA/vốn vay ưu đãi."},
+    {"so": 6, "tieu_de": "Bảo đảm cạnh tranh trong đấu thầu", "noi_dung": "Quy định nguyên tắc độc lập về pháp lý, tài chính và các quan hệ liên quan giữa chủ đầu tư, bên mời thầu, đơn vị tư vấn và nhà thầu."},
+    {"so": 8, "tieu_de": "Thông tin về đấu thầu", "noi_dung": "Quy định trách nhiệm cung cấp, đăng tải và công khai thông tin đấu thầu."},
+    {"so": 22, "tieu_de": "Chỉ định thầu", "noi_dung": "Quy định các trường hợp, điều kiện và nguyên tắc áp dụng chỉ định thầu."},
+    {"so": 39, "tieu_de": "Nội dung hồ sơ mời thầu", "noi_dung": "Quy định các thành phần và yêu cầu của hồ sơ mời thầu; tiêu chí phải rõ ràng, minh bạch, phù hợp quy mô và tính chất gói thầu."},
+    {"so": 43, "tieu_de": "Xét duyệt trúng thầu", "noi_dung": "Quy định nguyên tắc xét duyệt và điều kiện đề nghị trúng thầu theo loại gói thầu, phương pháp đánh giá và giá dự thầu."},
+    {"so": 50, "tieu_de": "Hợp đồng", "noi_dung": "Quy định về loại hợp đồng, hồ sơ hợp đồng, điều kiện ký kết và thực hiện hợp đồng."},
+    {"so": 55, "tieu_de": "Xử lý tình huống", "noi_dung": "Quy định nguyên tắc xử lý các tình huống phát sinh chưa được quy định cụ thể trong hồ sơ và pháp luật đấu thầu."},
+    {"so": 58, "tieu_de": "Kiến nghị trong đấu thầu", "noi_dung": "Quy định quyền kiến nghị, nguyên tắc và phạm vi giải quyết kiến nghị trong quá trình lựa chọn nhà thầu."},
+    {"so": 61, "tieu_de": "Các hành vi bị cấm trong đấu thầu", "noi_dung": "Quy định các hành vi bị cấm như thông thầu, gian lận, cản trở, can thiệp trái pháp luật, không bảo đảm cạnh tranh và công khai minh bạch."}
+  ],
+  "ghi_chu": "Nguồn metadata: Cổng thông tin điện tử Chính phủ, Luật số 22/2023/QH15. Nội dung điều trong file là tóm tắt tra cứu nhanh, không thay thế toàn văn. Khi áp dụng phải kiểm tra bản hợp nhất và Luật số 57/2024/QH15, Luật số 90/2025/QH15 nếu có liên quan."
+}
